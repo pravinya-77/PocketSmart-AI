@@ -1,4 +1,11 @@
 # PocketSmart AI – Your Smart Budget & Recommendation Assistant
+**Team:**
+Team ID: SWTID-2026-2805
+Team Size : 4
+Team Leader : Ruthika T
+Team Member : Pravinya S
+Team Member : Keerthana M
+Team Member : Devibala P
 
 A GenAI-powered, cross-platform recommendation system that gives personalized, **budget-based** suggestions for
 **Home Interiors**, **Party Planning** and **Jewelry**, using **Google Gemini 1.5 Flash Pro**, a **FastAPI** backend
